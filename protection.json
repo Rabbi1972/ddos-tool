@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Anti-Ddos.pro",
+    "data": "https://oauth.anti-ddos.pro/load.gif",
+    "type": "banned"
+  },
+  {
+    "name": "vShield",
+    "data": "<h2>Your ip was flagged by our system.</h2>",
+    "type": "banned"
+  },
+  {
+    "name": "DDoSGuard",
+    "data": "/ddos-guard/captcha_js",
+    "type": "banned"
+  },
+  {
+    "name": "DDoSGuard",
+    "data": "Service is not available in your region",
+    "type": "banned"
+  },
+  {
+    "name": "Cloudflare",
+    "data": "Cloudflare to restrict access",
+    "type": "banned"
+  },
+  {
+    "name": "Cloudflare",
+    "data": "<span class=\"error-description\">Access denied</span>",
+    "type": "banned"
+  },
+  {
+    "name": "ArvanCloud",
+    "data": "<title>خطایی رخ داده</title>",
+    "type": "banned"
+  },
+  {
+    "name": "Cloudflare",
+    "data": "DNS points to prohibited IP",
+    "type": "banned"
+  },
+  {
+    "name": "FrostByte",
+    "data": "https://storage.frosbyte.org/protections/loader2.gif",
+    "type": "banned"
+  },
+  {
+    "name": "Cloudflare",
+    "navigations": 1,
+    "data": "Please complete the security check to access",
+    "type": "captcha"
+  },
+  {
+    "name": "CloudFlare",
+    "navigations": 2,
+    "type": "javascript",
+    "data": "<h2 class=\"h2\" id=\"challenge-running\">"
+  },
+  {
+    "name": "StormWall Silent",
+    "data": "https://static.stormwall.pro/captcha.css",
+    "navigations": 1,
+    "type": "captcha"
+  },
+  {
+    "name": "ArvanCloud Captcha",
+    "data": "#arvanRecaptcha",
+    "navigations": 2,
+    "type": "captcha"
+  },
+  {
+    "name": "PoW Shield",
+    "navigations": 1,
+    "data": "<title>PoW Shield</title>",
+    "type": "javascript"
+  },
+  {
+    "name": "Baloo.one",
+    "data": "Please wait a bit ...",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "vDDoS-200",
+    "data": "<html><body><script>document.cookie=",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "ZeroStresser",
+    "data": "sus_",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "wsidchk",
+    "data": "<input type=\"hidden\" id=\"wsidchk\" name=\"wsidchk\" />",
+    "navigations": 10,
+    "type": "javascript"
+  },
+  {
+    "name": "Cloudflare",
+    "data": "cf-browser-verification",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "DDoS Guard",
+    "data": "check.ddos-guard.net/check.js",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "ArvanCloud",
+    "data": "<h2 class=\"error-section__subtitle error-section__subtitle--waiting\">",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "Nooder",
+    "data": "var NooderJS",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "React",
+    "data": "<script src=\"/vddosw3data.js\"></script>",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "GameSense",
+    "data": "<title>GameSense</title>",
+    "type": "javascript",
+    "navigations": 1
+  },
+  {
+    "name": "StormWall",
+    "data": "https://static.stormwall.pro/ajax-loader.gif",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "BlazingFast",
+    "data": "<br>DDoS Protection by</font> Blazingfast.io</a>",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "BlazingFast 2",
+    "data": "<script src=\"/bf.jquery.max.js\"></script>",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "vShield",
+    "data": "https://dl.vshield.pro/ddos/main.js",
+    "navigations": 1,
+    "type": "wheel"
+  },
+  {
+    "name": "CyberDDoS",
+    "data": "/cdn-cgi/challenge/v1/xscript.lib",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "FluxCDN",
+    "data": "<title>FluxCDN | Verifying Your Browser...</title>",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "CloudShield",
+    "data": "https://cloud-shield.ru/?from=iua-js-en",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "StackPath",
+    "data": "function genPid()",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "FrostByte",
+    "navigations": 1,
+    "type": "javascript",
+    "data": "<noscript><meta http-equiv=\"refresh\" content=\"5\"; url=\"\"/>Your browser must support JavaScript, please enable JavaScript or change your browser"
+  },
+  {
+    "name": "LowHosting (or LZT)",
+    "navigations": 1,
+    "type": "javascript",
+    "data": "<script src=\"/process-qv9ypsgmv9.js\">"
+  },
+  {
+    "navigations": 1,
+    "type": "javascript",
+    "name": "MyArena",
+    "data": "<title>Сайт под защитой Myarena.ru</title>"
+  },
+  {
+    "name": "MyArena Silent",
+    "navigations": 1,
+    "type": "javascript",
+    "data": "<html><head></head><body>PLEASE, CHECK THAT COOKIES AND JAVASCRIPT IS ACTIVE<script type=\"text/javascript\" src=\"/aes.js\">"
+  },
+  {
+    "name": "CastSecurity",
+    "navigations": 1,
+    "type": "javascript",
+    "data": "<h2 class=\"cf-subheadline\"><span data-translate=\"complete_sec_check\">Please complete the security check to access</span>"
+  },
+  {
+    "name": "MoscowOVH js",
+    "data": "<div class=\"verification__title\">",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "WafOVH",
+    "data": "<br>DDoS Protection by</font> <font class=\"alink\">WAF.OVH</font>",
+    "navigations": 1,
+    "type": "javascript"
+  },
+  {
+    "name": "RuHoster",
+    "data": "<head><title>Ru-hoster - L7 protection</title>",
+    "navigations": 1,
+    "type": "javascript"
+  }
+]
